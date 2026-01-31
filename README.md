@@ -35,7 +35,7 @@ I'm currently expanding my knowledge in:
 
 ## 📫 How to Reach Me
 
-- Email: [xiaoyu.hu@stonybrook.edu](mailto:xiaoyuhu106@gmail.com)
+- Email: [xiaoyuhu106@gmail.com](mailto:xiaoyuhu106@gmail.com)
 
 Thanks for stopping by! Always happy to connect and collaborate on tech, research, or just talk football ⚽.
 
