@@ -1,45 +1,72 @@
-# Hi there! I'm Xiaoyu Hu 👋
+# Hi there, I'm Xiaoyu Hu 👋
 
-Welcome to my GitHub! I'm currently an undergraduate student pursuing a dual degree in **Information Systems** at **Stony Brook University** (New York, USA) and **Digital Media Technology** at **Anhui University** (Hefei, China). I'm passionate about building scalable IT systems, exploring cloud infrastructure, and applying technology to solve real-world problems.
+I'm an **M.S.E. student in Electrical and Computer Engineering at Johns Hopkins University**, with a background in software engineering, cloud infrastructure, and computer vision.
 
-## 🔧 What I Do
+I'm passionate about building scalable backend systems, exploring distributed architectures, and applying machine learning to real-world engineering problems.
 
-- 💻 **IT Intern** at Stony Brook University (DoIT Linux Administration):  
-  I work with Linux systems, cloud automation tools like Terraform, GitHub, and shell scripting to support and optimize infrastructure. I've helped design landing zones and streamline operations in cloud environments.
+## 💻 What I'm Currently Working On
 
-- 🧑‍🏫 **Teaching Assistant** for CSE/ISE 311 Systems Administration:  
-  I assist students in learning Linux, Unix, and Windows server management, from installing systems to configuring web, database, and mail servers. I also support networking and system security labs.
+### Software Development Engineer Intern | inGen Dynamics
+*October 2026 – Present*
 
-- 🧪 **Research Assistant** on biomedical image segmentation:  
-  Co-authored a paper presented at **IEEE ISBI 2025**, focused on cortex vessel segmentation using high-resolution OCTA images.
+**Robot Fleet MLOps & Cloud Infrastructure**
 
-## 🌱 What I'm Learning
+- Developing the foundation of a containerized MLOps platform for simulated robotic fleets.
+- Working with **Python, FastAPI, PostgreSQL, MinIO, Docker Compose, and GitHub Actions** to establish backend services and local infrastructure.
+- Designing architecture for robot fleet management, model artifact storage, and future model deployment workflows.
+- Applying automated testing, CI/CD practices, and infrastructure-as-code principles to improve reliability and reproducibility.
 
-I'm currently expanding my knowledge in:
-- Cloud infrastructure (Azure, Terraform)
-- DevOps practices and system automation
-- Network security and system hardening
-- Advanced scripting (Bash, Python, YAML)
+### TCS — Trading Capturing System
+*Java Backend & Full-Stack Development | Ongoing Learning Project*
 
-## 💬 A Bit More About Me
+- Studying software engineering through a trading system project, focusing on **Java, object-oriented design, SQL, and backend development**.
+- Exploring **Spring Boot, RESTful APIs, database design, and layered application architecture**.
+- Building knowledge of **microservices, distributed systems, asynchronous messaging, and event-driven architectures**.
+- Strengthening practical understanding of the software development lifecycle, from requirements analysis and system design to implementation and testing.
 
-- 🧠 I love combining **technology** with **problem-solving** and **data analysis**.
-- 📊 I previously led a Microsoft Business Analysis Camp project and won first place with an AI-based emotional support solution for vulnerable groups.
-- ⚽ I'm a **soccer enthusiast**, and proudly served as **team captain** in the 15th Anhui Provincial Games, helping our team reach runner-up—our best result ever.
+## 🔬 Previous Experience & Research
 
-## 🛠 Skills
+**IT Intern | Stony Brook University — Division of Information Technology**
+- Worked with Linux systems, Microsoft Azure, Terraform, GitHub, and infrastructure automation.
+- Contributed to cloud infrastructure planning, landing-zone design, and operational improvements.
 
-- Languages: Java, Python, JavaScript, C, Ruby, Bash
-- Tools & Platforms: GitHub, Terraform, Linux/Unix, Blender, Office Suite
-- Spoken Languages: Native Mandarin, Fluent English
+**Teaching Assistant | CSE/ISE 311 — Systems Administration**
+- Assisted students with Linux/Unix, Windows Server, networking, and system administration.
+- Supported hands-on labs involving server configuration, troubleshooting, and security.
 
-## 📫 How to Reach Me
+**Research Assistant | Biomedical Image Analysis**
+- Co-authored a research paper presented at **IEEE ISBI 2025**.
+- Worked on cortical vessel segmentation using high-resolution Optical Coherence Tomography Angiography (OCTA) images.
 
-- Email: [xiaoyuhu106@gmail.com](mailto:xiaoyuhu106@gmail.com)
+## 🛠 Technical Skills
 
-Thanks for stopping by! Always happy to connect and collaborate on tech, research, or just talk football ⚽.
+- **Languages:** Python, Java, C, JavaScript, Bash, SQL
+- **Backend:** FastAPI, REST APIs, PostgreSQL; learning Spring Boot
+- **Cloud & DevOps:** Azure, Terraform, Docker, GitHub Actions, Linux
+- **ML & Research:** Computer Vision, MATLAB, Jupyter Notebook, Image Processing
+- **Engineering Practices:** Git, CI/CD, Automated Testing, System Design
 
-<!---
-XiaoyuHu777/XiaoyuHu777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Education
+
+**Johns Hopkins University**  
+M.S.E. in Electrical and Computer Engineering | Expected 2028
+
+**Stony Brook University**  
+B.S. in Information Systems | Class of 2025
+
+## 🌱 Areas of Interest
+
+- Software Engineering & Backend Development
+- Distributed Systems & Cloud Infrastructure
+- Machine Learning & Computer Vision
+- MLOps & Intelligent Systems
+
+## ⚽ Beyond Engineering
+
+I'm a passionate soccer player and former team captain at the 15th Anhui Provincial Games, where our team finished as runner-up.
+
+## 📫 Get in Touch
+
+- **Email:** [xiaoyuhu106@gmail.com](mailto:xiaoyuhu106@gmail.com)
+
+Always open to connecting, learning, and collaborating on interesting engineering projects!
