@@ -1,10 +1,10 @@
-# Hi there, I'm Xiaoyu Hu 👋
+# Hi there, I'm Xiaoyu Hu 
 
 I'm an **M.S.E. student in Electrical and Computer Engineering at Johns Hopkins University**, with a background in software engineering, cloud infrastructure, and computer vision.
 
 I'm passionate about building scalable backend systems, exploring distributed architectures, and applying machine learning to real-world engineering problems.
 
-## 💻 What I'm Currently Working On
+##  What I'm Currently Working On
 
 ### Software Development Engineer Intern | inGen Dynamics
 *October 2026 – Present*
@@ -24,7 +24,7 @@ I'm passionate about building scalable backend systems, exploring distributed ar
 - Building knowledge of **microservices, distributed systems, asynchronous messaging, and event-driven architectures**.
 - Strengthening practical understanding of the software development lifecycle, from requirements analysis and system design to implementation and testing.
 
-## 🔬 Previous Experience & Research
+##  Previous Experience & Research
 
 **IT Intern | Stony Brook University — Division of Information Technology**
 - Worked with Linux systems, Microsoft Azure, Terraform, GitHub, and infrastructure automation.
@@ -38,7 +38,7 @@ I'm passionate about building scalable backend systems, exploring distributed ar
 - Co-authored a research paper presented at **IEEE ISBI 2025**.
 - Worked on cortical vessel segmentation using high-resolution Optical Coherence Tomography Angiography (OCTA) images.
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 - **Languages:** Python, Java, C, JavaScript, Bash, SQL
 - **Backend:** FastAPI, REST APIs, PostgreSQL; learning Spring Boot
@@ -46,7 +46,7 @@ I'm passionate about building scalable backend systems, exploring distributed ar
 - **ML & Research:** Computer Vision, MATLAB, Jupyter Notebook, Image Processing
 - **Engineering Practices:** Git, CI/CD, Automated Testing, System Design
 
-## 🎓 Education
+##  Education
 
 **Johns Hopkins University**  
 M.S.E. in Electrical and Computer Engineering | Expected 2028
@@ -54,18 +54,14 @@ M.S.E. in Electrical and Computer Engineering | Expected 2028
 **Stony Brook University**  
 B.S. in Information Systems | Class of 2025
 
-## 🌱 Areas of Interest
+##  Areas of Interest
 
 - Software Engineering & Backend Development
 - Distributed Systems & Cloud Infrastructure
 - Machine Learning & Computer Vision
 - MLOps & Intelligent Systems
 
-## ⚽ Beyond Engineering
-
-I'm a passionate soccer player and former team captain at the 15th Anhui Provincial Games, where our team finished as runner-up.
-
-## 📫 Get in Touch
+##  Get in Touch
 
 - **Email:** [xiaoyuhu106@gmail.com](mailto:xiaoyuhu106@gmail.com)
 
